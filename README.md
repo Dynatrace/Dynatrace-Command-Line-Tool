@@ -1,5 +1,7 @@
 # Dynatrace Command Line Tool
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/663649bb2bcf44ef9a0c73d6ed3e0de0)](https://app.codacy.com/app/dariuszglugla/Dynatrace-AppMon-Command-Line-Tool?utm_source=github.com&utm_medium=referral&utm_content=Dynatrace/Dynatrace-AppMon-Command-Line-Tool&utm_campaign=badger)
+
 
 ### Table of Contents
 - [Description](#anchor_description)
